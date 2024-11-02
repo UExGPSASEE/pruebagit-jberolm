@@ -1,1 +1,4 @@
 Implmentación interfaz borrar vuelo
+Implementación lógica Actualizar vuelo
+
+Segunda implementación lógica actualizar vuelo
